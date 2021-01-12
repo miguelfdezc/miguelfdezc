@@ -1,4 +1,4 @@
-name: GitHub - Activity - Readme
+name: GitHub - Public/Private Activity - Readme
 
 on:
   schedule:
@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@v0.3.6
+      - uses: DeKal/github-activity-readme@v1.0.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
