@@ -15,7 +15,7 @@
 
 ### 📊 My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelfdezc&hide=jupyter%20notebook&langs_count=6&layout=compact" alt="miguelfdezc" width="39%" /></p><p><img align="right" src="https://github-readme-stats.vercel.app/api?username=miguelfdezc&count_private=true&show_icons=true&custom_title=Miguel's%20GitHub%20Stats&hide=prs,issues,contribs" alt="miguelfdezc" width="56%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelfdezc&hide=jupyter%20notebook&langs_count=6&layout=compact" alt="miguelfdezc" width="39%" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelfdezc&count_private=true&show_icons=true&custom_title=Miguel's%20GitHub%20Stats&hide=prs,issues,contribs" alt="miguelfdezc" width="56%"/></p>
 
 <div style="clear: both; display: block;">⠀</div>
 
