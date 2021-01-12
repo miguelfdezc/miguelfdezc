@@ -25,8 +25,7 @@
 1. 🔥 Pushed to miguelfdezc/miguelfdezc
 2. 🔥 Pushed to miguelfdezc/miguelfdezc
 3. 🔥 Pushed to miguelfdezc/miguelfdezc
-4. 🔥 Pushed to miguelfdezc/python-projects
-5. 🔥 Pushed to miguelfdezc/python-projects
+4. 🔥 Pushed to miguelfdezc/miguelfdezc
+5. 🔥 Pushed to miguelfdezc/miguelfdezc
 <!--END_SECTION:activity-->
-
 [resume-logo]: https://img.shields.io/badge/-Resume-gray?style=for-the-badge
