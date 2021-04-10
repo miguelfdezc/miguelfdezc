@@ -2,12 +2,13 @@
 <h3 align="center">A Software Engineering student from Spain</h3>
 
 - 💡 Always building new projects
-- 📚 Currently learning: **Django** & **React Native**
-- 👨‍💻 All my projects are available [here](miguelfdezc.github.io)
+- 📚 Currently learning: **React Native** & **MERN Stack**
+- 👨‍💻 All my projects are available [here](miguelfdezc.dev/#portfolio)
+- 📑 Download here my [resume](https://europa.eu/!DK97ty)
 
 ### 📧 Contact me
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](miguelfdezc99@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelfdezc) [![Resume][resume-logo]](https://europa.eu/!DK97ty)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](miguelfdezc99@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelfdezc)
 
 ### 🚀 Languages and Tools
 
