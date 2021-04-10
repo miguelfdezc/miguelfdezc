@@ -22,8 +22,8 @@
 ### 📌 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to miguelfdezc/nextjs-blog
-2. 🔥 Pushed to miguelfdezc/miguelfdezc
+1. 🔥 Pushed to miguelfdezc/amazon-price-tracker
+2. 🔥 Pushed to miguelfdezc/nextjs-blog
 3. 🔥 Pushed to miguelfdezc/miguelfdezc
 4. 🔥 Pushed to miguelfdezc/miguelfdezc
 5. 🔥 Pushed to miguelfdezc/miguelfdezc
