@@ -3,8 +3,8 @@
 
 - 💡 Always building new projects
 - 📚 Currently learning: **React Native** & **MERN Stack**
-- 👨‍💻 All my projects are available [here](miguelfdezc.dev/#portfolio)
-- 📑 Download here my [resume](https://europa.eu/!DK97ty)
+- 👨‍💻 All my projects are available <a href="https://miguelfdez.dev/#portfolio" target="_blank">here</a>
+- 📑 Download here my <a href="https://europa.eu/!DK97ty" target="_blank">resume</a>
 
 ### 📧 Contact me
 
