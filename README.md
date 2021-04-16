@@ -27,5 +27,4 @@
 2. 🔥 Pushed to miguelfdezc/miguelfdezc
 3. 🔥 Pushed to miguelfdezc/amazon-price-tracker
 4. 🔥 Pushed to miguelfdezc/nextjs-blog
-5. 🔥 Pushed to miguelfdezc/miguelfdezc
 <!--END_SECTION:activity-->
