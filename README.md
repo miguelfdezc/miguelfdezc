@@ -25,6 +25,7 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to miguelfdezc/miguelfdezc
 2. 🔥 Pushed to miguelfdezc/miguelfdezc
-3. 🔥 Pushed to miguelfdezc/amazon-price-tracker
-4. 🔥 Pushed to miguelfdezc/nextjs-blog
+3. 🔥 Pushed to miguelfdezc/miguelfdezc
+4. 🔥 Pushed to miguelfdezc/amazon-price-tracker
+5. 🔥 Pushed to miguelfdezc/nextjs-blog
 <!--END_SECTION:activity-->
