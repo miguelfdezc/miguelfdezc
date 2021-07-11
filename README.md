@@ -24,7 +24,4 @@
 
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to miguelfdezc/miguelfdezc
-2. 🔥 Pushed to miguelfdezc/miguelfdezc
-3. 🔥 Pushed to miguelfdezc/miguelfdezc
-4. 🔥 Pushed to miguelfdezc/amazon-price-tracker
 <!--END_SECTION:activity-->
