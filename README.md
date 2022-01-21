@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Miguel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
-<h3 align="center">A Software Engineering student from Spain</h3>
+<h3 align="center">A Software Engineer from Spain</h3>
 
 - 💡 Always building new projects
-- 📚 Currently learning: **React Native** & **MERN Stack**
+- 📚 Currently learning: **Next.js** & **NestJS**
 - 👨‍💻 All my projects are available <a href="https://miguelfdez.dev/#portfolio" target="_blank">here</a>
-- 📑 Download here my <a href="https://europa.eu/!wv98cX" target="_blank">resume</a>
+- 📑 Download here my <a href="https://europa.eu/europass/eportfolio/screen/share/56440d02-9be5-43c3-835a-9c2c96f622fd?lang=en" target="_blank">resume</a>
 
 ### 📧 Contact me
 
